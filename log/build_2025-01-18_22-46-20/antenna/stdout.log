@@ -1,0 +1,17 @@
+running develop
+running egg_info
+writing antenna.egg-info/PKG-INFO
+writing dependency_links to antenna.egg-info/dependency_links.txt
+writing entry points to antenna.egg-info/entry_points.txt
+writing requirements to antenna.egg-info/requires.txt
+writing top-level names to antenna.egg-info/top_level.txt
+reading manifest file 'antenna.egg-info/SOURCES.txt'
+writing manifest file 'antenna.egg-info/SOURCES.txt'
+running build_ext
+Creating /home/windowsuser/wifi_strength/install/antenna/lib/python3.10/site-packages/antenna.egg-link (link to .)
+Installing strength script to /home/windowsuser/wifi_strength/install/antenna/lib/antenna
+
+Installed /home/windowsuser/wifi_strength/build/antenna
+running symlink_data
+symbolically linking /home/windowsuser/wifi_strength/build/antenna/resource/antenna -> /home/windowsuser/wifi_strength/install/antenna/share/ament_index/resource_index/packages
+symbolically linking /home/windowsuser/wifi_strength/build/antenna/package.xml -> /home/windowsuser/wifi_strength/install/antenna/share/antenna

@@ -1,0 +1,5 @@
+  File "/home/windowsuser/wifi_strength/install/antenna/lib/python3.10/site-packages/antenna/strength.py", line 60
+    self.pub.publish(msg
+                    ^
+SyntaxError: '(' was never closed
+

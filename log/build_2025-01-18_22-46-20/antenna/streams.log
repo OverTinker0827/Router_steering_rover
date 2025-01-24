@@ -1,0 +1,19 @@
+[0.393s] Invoking command in '/home/windowsuser/wifi_strength/build/antenna': PYTHONPATH=/home/windowsuser/wifi_strength/build/antenna/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/windowsuser/wifi_strength/install/antenna/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/windowsuser/wifi_strength/build/antenna/build --no-deps symlink_data --force
+[0.563s] running develop
+[0.691s] running egg_info
+[0.691s] writing antenna.egg-info/PKG-INFO
+[0.692s] writing dependency_links to antenna.egg-info/dependency_links.txt
+[0.692s] writing entry points to antenna.egg-info/entry_points.txt
+[0.692s] writing requirements to antenna.egg-info/requires.txt
+[0.692s] writing top-level names to antenna.egg-info/top_level.txt
+[0.693s] reading manifest file 'antenna.egg-info/SOURCES.txt'
+[0.693s] writing manifest file 'antenna.egg-info/SOURCES.txt'
+[0.694s] running build_ext
+[0.694s] Creating /home/windowsuser/wifi_strength/install/antenna/lib/python3.10/site-packages/antenna.egg-link (link to .)
+[0.695s] Installing strength script to /home/windowsuser/wifi_strength/install/antenna/lib/antenna
+[0.695s] 
+[0.695s] Installed /home/windowsuser/wifi_strength/build/antenna
+[0.695s] running symlink_data
+[0.695s] symbolically linking /home/windowsuser/wifi_strength/build/antenna/resource/antenna -> /home/windowsuser/wifi_strength/install/antenna/share/ament_index/resource_index/packages
+[0.695s] symbolically linking /home/windowsuser/wifi_strength/build/antenna/package.xml -> /home/windowsuser/wifi_strength/install/antenna/share/antenna
+[0.711s] Invoked command in '/home/windowsuser/wifi_strength/build/antenna' returned '0': PYTHONPATH=/home/windowsuser/wifi_strength/build/antenna/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/windowsuser/wifi_strength/install/antenna/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/windowsuser/wifi_strength/build/antenna/build --no-deps symlink_data --force

@@ -1,0 +1,3 @@
+[console_scripts]
+strength = antenna.strength:main
+

@@ -1,0 +1,37 @@
+[0.444s] Invoking command in '/home/windowsuser/wifi_strength/src/antenna': PYTHONPATH=/home/windowsuser/wifi_strength/build/antenna/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/windowsuser/wifi_strength/install/antenna/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/antenna build --build-base /home/windowsuser/wifi_strength/build/antenna/build install --record /home/windowsuser/wifi_strength/build/antenna/install.log --single-version-externally-managed install_data
+[0.596s] running egg_info
+[0.596s] creating ../../build/antenna/antenna.egg-info
+[0.596s] writing ../../build/antenna/antenna.egg-info/PKG-INFO
+[0.596s] writing dependency_links to ../../build/antenna/antenna.egg-info/dependency_links.txt
+[0.596s] writing entry points to ../../build/antenna/antenna.egg-info/entry_points.txt
+[0.596s] writing requirements to ../../build/antenna/antenna.egg-info/requires.txt
+[0.596s] writing top-level names to ../../build/antenna/antenna.egg-info/top_level.txt
+[0.596s] writing manifest file '../../build/antenna/antenna.egg-info/SOURCES.txt'
+[0.597s] reading manifest file '../../build/antenna/antenna.egg-info/SOURCES.txt'
+[0.598s] writing manifest file '../../build/antenna/antenna.egg-info/SOURCES.txt'
+[0.598s] running build
+[0.598s] running build_py
+[0.598s] creating /home/windowsuser/wifi_strength/build/antenna/build
+[0.598s] creating /home/windowsuser/wifi_strength/build/antenna/build/lib
+[0.598s] creating /home/windowsuser/wifi_strength/build/antenna/build/lib/antenna
+[0.598s] copying antenna/strength.py -> /home/windowsuser/wifi_strength/build/antenna/build/lib/antenna
+[0.598s] copying antenna/__init__.py -> /home/windowsuser/wifi_strength/build/antenna/build/lib/antenna
+[0.598s] running install
+[0.598s] running install_lib
+[0.599s] creating /home/windowsuser/wifi_strength/install/antenna/lib/python3.10/site-packages/antenna
+[0.599s] copying /home/windowsuser/wifi_strength/build/antenna/build/lib/antenna/strength.py -> /home/windowsuser/wifi_strength/install/antenna/lib/python3.10/site-packages/antenna
+[0.599s] copying /home/windowsuser/wifi_strength/build/antenna/build/lib/antenna/__init__.py -> /home/windowsuser/wifi_strength/install/antenna/lib/python3.10/site-packages/antenna
+[0.599s] byte-compiling /home/windowsuser/wifi_strength/install/antenna/lib/python3.10/site-packages/antenna/strength.py to strength.cpython-310.pyc
+[0.599s] byte-compiling /home/windowsuser/wifi_strength/install/antenna/lib/python3.10/site-packages/antenna/__init__.py to __init__.cpython-310.pyc
+[0.600s] running install_data
+[0.600s] creating /home/windowsuser/wifi_strength/install/antenna/share/ament_index
+[0.600s] creating /home/windowsuser/wifi_strength/install/antenna/share/ament_index/resource_index
+[0.600s] creating /home/windowsuser/wifi_strength/install/antenna/share/ament_index/resource_index/packages
+[0.600s] copying resource/antenna -> /home/windowsuser/wifi_strength/install/antenna/share/ament_index/resource_index/packages
+[0.600s] copying package.xml -> /home/windowsuser/wifi_strength/install/antenna/share/antenna
+[0.600s] running install_egg_info
+[0.601s] Copying ../../build/antenna/antenna.egg-info to /home/windowsuser/wifi_strength/install/antenna/lib/python3.10/site-packages/antenna-0.0.0-py3.10.egg-info
+[0.601s] running install_scripts
+[0.613s] Installing strength script to /home/windowsuser/wifi_strength/install/antenna/lib/antenna
+[0.613s] writing list of installed files to '/home/windowsuser/wifi_strength/build/antenna/install.log'
+[0.625s] Invoked command in '/home/windowsuser/wifi_strength/src/antenna' returned '0': PYTHONPATH=/home/windowsuser/wifi_strength/build/antenna/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/windowsuser/wifi_strength/install/antenna/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/antenna build --build-base /home/windowsuser/wifi_strength/build/antenna/build install --record /home/windowsuser/wifi_strength/build/antenna/install.log --single-version-externally-managed install_data
